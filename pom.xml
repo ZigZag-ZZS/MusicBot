@@ -589,35 +589,35 @@
         <lavaplayer.version>2.2.7</lavaplayer.version>
         <youtube-source.version>1.18.2</youtube-source.version>
         <logback.version>1.5.25</logback.version>
-        <typesafe-config.version>1.4.3</typesafe-config.version>
-        <jsoup.version>1.22.1</jsoup.version>
-        <mockito.version>5.21.0</mockito.version>
+        <typesafe-config.version>1.4.9</typesafe-config.version>
+        <jsoup.version>1.23.2</jsoup.version>
+        <mockito.version>5.24.0</mockito.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <flatlaf.version>3.7</flatlaf.version>
+        <flatlaf.version>3.7.2</flatlaf.version>
 
         <!-- BOM versions -->
-        <jackson-bom.version>2.20.1</jackson-bom.version>
+        <jackson-bom.version>2.22.4</jackson-bom.version>
         <junit-bom.version>5.14.2</junit-bom.version>
 
         <!-- Managed dependency versions -->
         <slf4j.version>2.0.17</slf4j.version>
         <kotlin-stdlib.version>2.2.21</kotlin-stdlib.version>
-        <jetbrains-annotations.version>24.0.0</jetbrains-annotations.version>
+        <jetbrains-annotations.version>26.1.0</jetbrains-annotations.version>
         <org-json.version>20240303</org-json.version>
         <rhino-engine.version>1.7.15</rhino-engine.version>
         <lava-common.version>2.2.7</lava-common.version>
 
         <!-- Plugin versions -->
         <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
-        <maven-shade-plugin.version>3.6.1</maven-shade-plugin.version>
-        <maven-surefire-plugin.version>3.5.4</maven-surefire-plugin.version>
+        <maven-shade-plugin.version>3.6.2</maven-shade-plugin.version>
+        <maven-surefire-plugin.version>3.6.1</maven-surefire-plugin.version>
         <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
-        <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
-        <maven-dependency-plugin.version>3.8.1</maven-dependency-plugin.version>
-        <versions-maven-plugin.version>2.18.0</versions-maven-plugin.version>
-        <spotbugs-maven-plugin.version>4.9.3.0</spotbugs-maven-plugin.version>
+        <maven-enforcer-plugin.version>3.7.0</maven-enforcer-plugin.version>
+        <maven-dependency-plugin.version>3.11.0</maven-dependency-plugin.version>
+        <versions-maven-plugin.version>2.23.0</versions-maven-plugin.version>
+        <spotbugs-maven-plugin.version>4.10.5.0</spotbugs-maven-plugin.version>
         <checkstyle-maven-plugin.version>3.6.0</checkstyle-maven-plugin.version>
-        <jacoco-maven-plugin.version>0.8.13</jacoco-maven-plugin.version>
+        <jacoco-maven-plugin.version>0.8.16</jacoco-maven-plugin.version>
     </properties>
 
     <profiles>
